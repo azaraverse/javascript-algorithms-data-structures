@@ -8,7 +8,6 @@
     60-69         "D"
     0-59          "F"
 */
-
 const getGrade = (score) => {
   if (score === 100) {
     return "A++";

@@ -6,7 +6,6 @@
 */
 
 // example code: average = sum of all scores / total number of scores
-
 const getAverage = (scores) => {
   let sumOfAllScores = 0;
   for (const score of scores) {
